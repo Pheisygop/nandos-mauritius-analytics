@@ -1,0 +1,13 @@
+product_id,extra_name,reference_price_mur,assumed_food_cost_mur,price_basis,unit
+101,Cheddar Cheese,45,15,Published menu snapshot,portion
+102,Spicy Mixed Olives,142,45,Published menu snapshot; standalone starter,portion
+103,Chicken Strips,195,65,Published menu snapshot; salad add-on,portion
+104,Grilled Pineapple,47,14,Published menu snapshot,portion
+105,Mushroom,75,25,Simulated price,portion
+106,PERinaise,47,12,Published menu snapshot,portion
+107,Creamy Dip,45,12,Simulated price,portion
+108,Pulled Chicken,152,50,Published menu snapshot; salad add-on,portion
+109,Vodka,150,45,Simulated price and availability,25 ml serving assumed
+110,Rhum,150,45,Simulated price and availability,25 ml serving assumed
+111,Feta Cheese,95,30,Published menu snapshot,portion
+112,Halloumi Cheese,162,55,Published menu snapshot,portion
